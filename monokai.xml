@@ -17,6 +17,7 @@
   <style name="String" foreground="#e6db74"/>
   <style name="Type" foreground="#66d9ef"/>
   <style name="Local"/>
+  <style name="Parameter" foreground="#e48d27"/>  
   <style name="Field" foreground="#5f87af"/>
   <style name="Static" foreground="#7aac18" italic="true"/>
   <style name="VirtualMethod" foreground="#a6e22e"/>
